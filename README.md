@@ -7,4 +7,4 @@ I'm Jack, here's some info about me:
 - My current interests are: quantum information, topology, quantum mechanics, [fun classical mechanics](https://scholar.harvard.edu/david-morin/classical-mechanics), and more
 - I code in Python and write a lot of TeX
 
-I'm always looking for interesting conversations and projects! Contact me at: jack [dot] ceroni [at] mail [dot] utoronto [dot] ca. For more info on me and my current projects, check out [my website](https://lucaman99.github.io/).
+I'm always looking for interesting conversations and projects! Contact me at: jackceroni [at] gmail [dot] com. For more info on me and my current projects, check out [my website](https://lucaman99.github.io/).
