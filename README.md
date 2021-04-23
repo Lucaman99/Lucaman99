@@ -2,7 +2,7 @@
 
 I'm Jack, here's some info about me:
 
-- I'm a first-year math and physics undergraduate at the University of Toronto
+- I'm going into my second year at the University of Toronto, studying pure mathematics
 - I'm currently working at Xanadu, a quantum computing company in Toronto, building tools for [quantum machine learning](https://github.com/PennyLaneAI/pennylane).
 - My current interests are: quantum information, topology, quantum mechanics, [fun classical mechanics](https://scholar.harvard.edu/david-morin/classical-mechanics), and more
 - I code in Python and write a lot of TeX
