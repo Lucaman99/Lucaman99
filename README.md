@@ -2,8 +2,8 @@
 
 I'm Jack, here's some info about me:
 
-- I'm in my second year at the University of Toronto, studying pure mathematics
-- I'm currently working at Xanadu, a quantum computing company in Toronto, researching quantum algorithms for quantum chemistry.
+- I just finished my second year at the University of Toronto, studying pure mathematics
+- I'm currently working at Xanadu, a quantum computing company in Toronto, researching quantum algorithms for quantum chemistry (again, I've been working at Xanadu since 2020!).
 - My current interests are: quantum information, topology, quantum mechanics, [fun classical mechanics](https://scholar.harvard.edu/david-morin/classical-mechanics), and more
 - I code in Python and write a lot of TeX, usually in Spacemacs/Vim (or at least a code editor with Vim keybindings)
 
