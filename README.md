@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 I'm Jack, here's some info about me:
 
